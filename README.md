@@ -1,5 +1,8 @@
 # Hi, I'm Sina 👋  
 
+## 👨‍💻 About Me  
+I'm an Android developer focused on building reliable, user-friendly apps. I specialize in Kotlin and modern Android frameworks, with a strong interest in clean architecture and open-source contributions.
+
 ## 💻 Skills & Tech Stack
 - **Android Development**: Kotlin, Jetpack Compose, MVVM
 - **Libraries**: Retrofit, OkHttp, Coroutines, Room
@@ -16,17 +19,10 @@
 ![Room DB](https://img.shields.io/badge/Room_DB-007396?style=flat&logo=android&logoColor=white)
 
 
-
-## 👨‍💻 About Me  
-I'm an Android developer focused on building reliable, user-friendly apps. I specialize in Kotlin and modern Android frameworks, with a strong interest in clean architecture and open-source contributions.
-
 ## 🎯 Current Focus  
 - Contributing to Android open-source projects  
 - Building and sharing useful tools for developers
-
-## 🎉 Fun Fact  
-I enjoy learning new things every day and continuously improving my development skills.
-
+- 
 ---
 
 ## 🌐 Connect with me
