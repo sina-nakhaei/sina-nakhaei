@@ -10,19 +10,14 @@ I'm an Android developer focused on building reliable, user-friendly apps. I spe
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-75C0A6?style=flat&logo=kotlin&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-4E7B7B?style=flat&logo=retrofit&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room_DB-007396?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
 ## 🎯 Current Focus  
 - Contributing to Android open-source projects  
 - Building and sharing useful tools for developers
-- 
+
 ---
 
 ## 🌐 Connect with me
