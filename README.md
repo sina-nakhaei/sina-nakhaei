@@ -2,6 +2,7 @@
 
 
 An Android developer who is willing to make the world a better place to live with the help of technology.
+Open to turn minimal ideas into robust applications.
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
