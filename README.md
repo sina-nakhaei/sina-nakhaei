@@ -2,6 +2,7 @@
 
 
 An Android developer who is willing to make the world a better place to live with the help of technology.
+
 Open to turn minimal ideas into robust applications.
 
 
