@@ -1,24 +1,13 @@
 # Hi, I'm Sina 👋  
 
-## 👨‍💻 About Me  
-I'm an Android developer focused on building reliable, user-friendly apps. I specialize in Kotlin and modern Android frameworks, with a strong interest in clean architecture and open-source contributions.
 
-## 💻 Skills & Tech Stack
-- **Android Development**: Kotlin, Jetpack Compose, MVVM
-- **Libraries**: Retrofit, OkHttp, Coroutines, Room
-- **Tools**: Android Studio, Git, Firebase
+An Android developer who is willing to make the world a better place to live with the help of technology.
+
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-
-## 🎯 Current Focus  
-- Contributing to Android open-source projects  
-- Building and sharing useful tools for developers
-
----
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-nakhaei/)
